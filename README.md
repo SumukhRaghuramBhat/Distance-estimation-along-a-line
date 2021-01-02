@@ -14,3 +14,7 @@ Part-2:
 Two Anchors will be placed at a distance of 100m sending periodic beacon messages including their nodeID. 
 A Target mote will be placed at an unknown distance x meters from one end to receive these beacons, estimate the received RSSI values of the beacons, and transmit to the base-station. 
 The base station will estimate the distance x of the target mote along the line (0-100m) and display it on the screen.
+
+
+![WhatsApp Image 2020-12-16 at 11 06 56 PM](https://user-images.githubusercontent.com/57367559/103448939-a5ff0800-4c6e-11eb-8a99-b3db81c89f33.jpeg)
+![WhatsApp Image 2020-12-17 at 12 52 04 PM](https://user-images.githubusercontent.com/57367559/103448941-a8f9f880-4c6e-11eb-8bab-21f41c3e5e88.jpeg)
